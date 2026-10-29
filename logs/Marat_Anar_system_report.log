@@ -1,0 +1,86 @@
+==================================================
+ System report
+==================================================
+Student full name : Marat Anar
+Date and time     : 2026-10-29 22:04:52 +05
+Current username  : anar
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 173,35 99,75 57,15
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 46%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4761.
+Pages active:                                 112543.
+Pages inactive:                               111846.
+Pages speculative:                              1586.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi    13Gi    50%    484k  136M    0%   /
+/dev/disk2s6     228Gi   1,0Gi    13Gi     8%       1  136M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi    13Gi    45%    1,0k  136M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi    13Gi     1%     109  136M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   189Gi    13Gi    94%    1,9M  136M    1%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi    13Gi    13%      73  136M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 13Gi of 228Gi (94% used) on /System/Volumes/Data
+
+==================================================
+ System report
+==================================================
+Student full name : Marat Anar
+Date and time     : 2026-10-29 22:04:53 +05
+Current username  : anar
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 173,35 99,75 57,15
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 47%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4596.
+Pages active:                                 117091.
+Pages inactive:                               115461.
+Pages speculative:                              1285.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi    13Gi    50%    484k  136M    0%   /
+/dev/disk2s6     228Gi   1,0Gi    13Gi     8%       1  136M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi    13Gi    46%    1,0k  136M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi    13Gi     1%     109  136M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   189Gi    13Gi    94%    1,9M  136M    1%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi    13Gi    13%      73  136M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 13Gi of 228Gi (94% used) on /System/Volumes/Data
+
